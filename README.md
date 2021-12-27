@@ -48,6 +48,7 @@
 #### Generals
 - [ ] View a user details
 - [ ] List of all registered users
+- [ ] Statistics about uploaded 3D models (free and premium)
 
 #### Cash-out requests
 - [ ] Approve a cash-out request
