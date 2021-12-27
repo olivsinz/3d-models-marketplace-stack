@@ -22,21 +22,24 @@
 - [ ] A user has a public profile where he can find the designs (free and premium) he has uploaded
 
 ### 3D models
-- Users can upload 3d models
-- Users can search for 3d models (search by tags, description, model name, designer name)
-- Users can sell 3D digital models
-- Users can buy 3D digital models
-- Users can download the free templates without logging in.
-- Users can find the 3D models of users they follow in a page called "explore".
-- Uploaded 3D models for sale must be confirmed by an administrator before being published.
-- User can find his uploaded and purchased models in his profile (dashboard).
+- [ ] Users can upload 3d models
+- [ ] Users can sell 3D digital models
+- [ ] Users can buy 3D digital models
+- [ ] Users can download the free templates without logging in.
+- [ ] Users can find the 3D models of users they follow in a page called "explore".
+- [ ] Uploaded 3D models for sale must be confirmed by an administrator before being published.
+- [ ] User can find his uploaded and purchased models in his profile (dashboard).
+
+### Search
+- [ ] A user can search for 3d models from the home page.
+- [ ] Users can search for 3d models (search by tags, description, model name, designer name)
 
 ### Payment
-- Integration of "Paymee" as a payment method
+- [ ] Integration of "Paymee" as a payment method
 
 ### Cash-out requests
-- Make a cash-out request
-- User can view a history of his cash-out requests
+- [ ] Make a cash-out request
+- [ ] User can view a history of his cash-out requests
 
 ### Platform management (Admin only)
 
@@ -45,12 +48,12 @@
 - [ ] List of all registered users
 
 #### Cash-out requests
-- Approve a cash-out request
-- Reject a cash-out request
-- Listing of cash-out requests
+- [ ] Approve a cash-out request
+- [ ] Reject a cash-out request
+- [ ] Listing of cash-out requests
 
 ## Database architecture
-To be done after validation of all points in this document
+To be done after validation of all points
 
 ## Navigation
 
