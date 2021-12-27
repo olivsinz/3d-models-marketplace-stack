@@ -32,7 +32,9 @@
 
 ### Search
 - [ ] A user can search for 3d models from the home page.
-- [ ] Users can search for 3d models (search by tags, description, model name, designer name)
+- [ ] Users can search for 3d models from his profile (dashboard) (search by tags, description, model name, designer name)
+- [ ] A user can filter models on the home page
+- [ ] A user can filter models from his profile (dashboard) (most downloded, most viewed, new, free/premium models).
 
 ### Payment
 - [ ] Integration of "Paymee" as a payment method
@@ -96,4 +98,4 @@ To be done after validation of all points
 ## Frontend
 - Framework CSS : Tailwind CSS
 
-NB: Some points that are too technical (unit tests for work safety, etc.) are deliberately omitted for the simplicity of the document. They will be treated during the execution of the project.
+NB: Some points that are too technical (unit tests for work safety, deployment, etc.) are deliberately omitted for the simplicity of the document. They will be treated during the execution of the project.
